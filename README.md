@@ -1,5 +1,6 @@
 # tut
 ## Simple python tool to convert nmap normal output to grepable output.
+When --scripts is used, nmap output tends to be messy to search for a long file.
 
 ## Usage
 
